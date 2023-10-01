@@ -13,4 +13,4 @@ Facts:
 
 On top of being **undeniably cute**, we also love to make them into more or less relatable memes.
 
-<img src="https://i.pinimg.com/1200x/0c/30/23/0c3023cfe05694e99ace577f52ec1fce.jpg" width="220"> <img src="https://i.chzbgr.com/full/9773092096/hD3626463" width="220"> <img src="https://sadanduseless.b-cdn.net/wp-content/uploads/2023/02/raccoon-memes8.jpg" width="220"> <img src="https://i.pinimg.com/736x/a3/d6/ba/a3d6ba95b166d8be13f9b0a2abd49732.jpg" width="220"> 
+<img src="https://i.pinimg.com/1200x/0c/30/23/0c3023cfe05694e99ace577f52ec1fce.jpg" width="300"> <img src="https://i.chzbgr.com/full/9773092096/hD3626463" width="300"> <img src="https://sadanduseless.b-cdn.net/wp-content/uploads/2023/02/raccoon-memes8.jpg" width="300"> <img src="https://i.pinimg.com/736x/a3/d6/ba/a3d6ba95b166d8be13f9b0a2abd49732.jpg" width="300"> 
