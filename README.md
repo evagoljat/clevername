@@ -6,7 +6,7 @@
 <img src="https://i.natgeofe.com/n/8271db90-5c35-46bc-9429-588a9529e44a/raccoon_thumb_3x2.JPG" width="600">
 
 Facts: 
-- **Extremely cute** looking fluffy mammals (see picture above)
+- **Extremely cute** fluffy mammals (see picture above)
 - Their face colours resemble a **masked bandit**, which fits their chacter perfectly as they love to steal fruits and vegetables from gardens.
 - They can often be found looking for dinner in the trash cans which got them the name '**_Trash pandas_**'
 - They like to wash their food, which sometimes leaves them (_and the viewer_) heartbroken ([Watch the heartbreaking racoon video at your own risk](https://www.youtube.com/watch?v=rfbb4yRBH64/))
