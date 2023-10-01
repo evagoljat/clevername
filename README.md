@@ -9,5 +9,7 @@ Facts:
 - Extremely cute looking fluffy mammals (see picture above)
 - Their face colours resemble a masked bandit, which fits their chacter perfectly as they love to steal fruits and vegetables from gardens.
 - They can often be found looking for dinner in the trash cans which got them the name 'Trash pandas'
-- They like to wash their food, which sometimes leaves them (and the viewer) heartbroken (The proof can be found here: https://www.youtube.com/watch?v=rfbb4yRBH64)
+- They like to wash their food, which sometimes leaves them (and the viewer) heartbroken (The proof can be found bellow)
 
+
+[![Watch the video](https://www.youtube.com/watch?v=rfbb4yRBH64/maxresdefault.jpg)](https://www.youtube.com/watch?v=rfbb4yRBH64)
