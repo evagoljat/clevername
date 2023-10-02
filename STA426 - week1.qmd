@@ -1,0 +1,64 @@
+---
+title: "Eva Goljat - week 1 Exercise part B"
+format: html
+editor: visual
+---
+
+### Starting up
+
+Install and load all the neccessary packages
+
+```{r}
+library(ggplot2) 
+library(tidyverse) 
+library(palmerpenguins)
+```
+
+### Creating the data
+
+Using the rlnorm function create values belonging to "a". The chosen mean was 5 and standard deviation was 0,5.
+
+```{r}
+a <- rlnorm(n = 100, meanlog = 5, sdlog = 0.5)
+```
+
+Using the function **data.frame,** create a dataframe called **data**, where you collected all values in a.
+
+```{r}
+data = data.frame(value=a)
+```
+
+### Visualization
+
+Using the function **ggplot** create a basic histogram called hg.
+
+```{r}
+hg <- ggplot(data, aes(x=value)) +
+  geom_histogram(bins = 100, fill = 'sienna3', color = 'sienna') +
+  ggtitle("Histogram - linear scale")
+hg
+```
+
+Using the ggplot create a basic histogram with a logarithmic scale (named lg), determined with function scale_x_log10.
+
+```{lg <- ggplot(data, aes(log(x=value))) +}
+  geom_histogram(bins = 100, fill = 'sienna1', color = 'sienna') +
+  scale_x_log10() +
+  ggtitle("Histogram - log scale")
+lg 
+```
+
+We will now create a violin plot called vp, what has values on the x-axis and the for the y axis we only put 1.
+
+```{r}
+vp <- ggplot(data, aes(x = value, y = log_value)) +
+  geom_violin(fill = "thistle3", color = "plum4") +
+  geom_boxplot(width = 0.1, fill = "pink1", color = "orchid4") +
+  labs(y = "Log-Transformed Value") +
+  ggtitle("Violin Plot")
+vp
+```
+
+### Final comments
+
+In all honesty R is not my strength and I am still far from fully understanding how certain functions work. The weakest point in this exercise is the violin plot.
